@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description{
+    font-weight: bold;
+}
+
+.image-description{
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.image{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 80vh;
+}
